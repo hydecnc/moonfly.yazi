@@ -35,6 +35,7 @@ border_style  = { fg = "#323437" }
 
 # : Mode {{{
 
+[mode]
 normal_main = { fg = "#080808", bg = "#80a0ff", bold = true }
 normal_alt  = { fg = "#080808", bg = "#80a0ff", bold = true }
 select_main = { fg = "#080808", bg = "#e3c78a", bold = true }
